@@ -1,0 +1,30 @@
+theme: beautiful-jekyll-theme
+title: Clutchplay's Blog
+description: ClutchPlay is gaming and streaming hub—join me for epic moments, tips, and stories!
+url: "https://clutchplay.online"
+baseurl: ""
+logo: "https://raw.githubusercontent.com/RollingThunder/clutchplay.online/main/assets/img/clutchplay-logo.png" # Optional: Create a logo and upload to /assets/img/
+avatar: "https://raw.githubusercontent.com/RollingThunder/clutchplay.online/main/assets/img/avatar.png" # Optional: Upload your profile pic
+permalink: /:year/:month/:day/:title/
+paginate: 5
+disqus: clutchplay-online # Replace with your Disqus shortname (optional, for comments)
+author:
+  name: Narendra (aka UndercoverAlchemist)
+  email: undercoveralchemist@gmail.com # Replace with your email
+  twitch: UndercoverAlchemist # Replace with your Twitch username
+  twitter: AlchemistFIFA # Replace with your Twitter/X username
+  github: RollingThunder
+footer-links:
+  email: true
+  twitch: true
+  twitter: true
+  github: true
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+  - title: Twitch
+    url: https://twitch.tv/UndercoverAlchemist # Replace with your Twitch URL
