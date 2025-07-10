@@ -1,9 +1,11 @@
 ---
 remote_theme: daattali/beautiful-jekyll@master
+
 title: "Clutchplay"
-description: "Clutchplay is your ultimate destination for sports and gaming enthusiasts. Dive into in-depth tactical breakdowns and expert insights on football, cricket, chess, and tennis and other sports plus fresh coverage of new game releases and the latest in esports. Passionate analysis, winning strategies, and bold opinions—all in one clutch play."
+description: "Clutchplay is your ultimate destination for sports and gaming enthusiasts. Dive into in-depth tactical breakdowns and expert insights on football, cricket, chess, tennis, and other sports — plus fresh coverage of new game releases and the latest in esports. Passionate analysis, winning strategies, and bold opinions—all in one clutch play."
+
 url: "https://clutchplay.online"
-baseurl: ""
+baseurl: ""  # Required if hosted in a subfolder. Keep it blank for custom domain.
 
 logo: "assets/img/clutchplay-logo.png"
 avatar: "assets/img/avatar.png"
@@ -15,16 +17,22 @@ disqus: "clutchplay-online"
 author_name: "Narendra aka UndercoverAlchemist"
 author_email: "undercoveralchemist@tuta.io"
 
+twitch_username: "UndercoverAlchemist"
+github_username: "RollingThunder"
+twitter_username: "AlchemistFIFA"
+
+custom_css: "assets/css/custom.css"
+
 footer-links:
   email: true
   twitch: true
   twitter: true
   github: true
 
-twitch_username: "UndercoverAlchemist"
-github_username: "RollingThunder"
-twitter_username: "AlchemistFIFA"
+# SEO and analytics (optional)
+google_analytics: ""  # Add your GA ID here if needed
 
+# Navigation bar structure
 nav:
   - title: "Home"
     url: "/"
@@ -32,5 +40,9 @@ nav:
     url: "/about/"
   - title: "Blog"
     url: "/blog/"
-  - title: "Twitch"
-    url: "https://twitch.tv/UndercoverAlchemist"
+  - title: "Analysis"
+    url: "/analysis/"
+  - title: "Twitch Streams"
+    url: "/twitch/"
+  - title: "Contact"
+    url: "/contact/"
