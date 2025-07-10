@@ -1,0 +1,10 @@
+body {
+         background-color: #1a1a1a; /* Dark gaming background */
+         color: #fff;
+     }
+     .navbar {
+         background-color: #d00000; /* Liverpool FC red */
+     }
+     .post-title {
+         color: #ffcc00; /* Gold for emphasis */
+     }
