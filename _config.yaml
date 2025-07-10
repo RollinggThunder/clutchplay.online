@@ -1,31 +1,37 @@
 ---
-     theme: beautiful-jekyll-theme
-     title: Clutchplay
-     description: Narendra's gaming hub -- join me for tips and streams!
-     url: https://clutchplay.online
-     baseurl: ""
-     logo: assets/img/clutchplay-logo.png
-     avatar: assets/img/avatar.png
-     permalink: /:year/:month/:day/:title/
-     paginate: 5
-     disqus: clutchplay-online
-     author:
-       name: Narendra aka UndercoverAlchemist
-       email: narendra@example.com
-       twitch: UndercoverAlchemist
-       twitter: AlchemistFIFA
-       github: RollingThunder
-     footer-links:
-       email: true
-       twitch: true
-       twitter: true
-       github: true
-     nav:
-       - title: Home
-         url: /
-       - title: About
-         url: /about/
-       - title: Blog
-         url: /blog/
-       - title: Twitch
-         url: https://twitch.tv/UndercoverAlchemist
+theme: beautiful-jekyll-theme
+title: Clutchplay
+description: "Narendra's gaming hub -- join me for tips and streams!"
+url: "https://clutchplay.online"
+baseurl: ""
+
+logo: "assets/img/clutchplay-logo.png"
+avatar: "assets/img/avatar.png"
+
+permalink: "/:year/:month/:day/:title/"
+paginate: 5
+
+disqus: clutchplay-online
+
+author:
+  name: "Narendra aka UndercoverAlchemist"
+  email: "narendra@example.com"
+  twitch: "UndercoverAlchemist"
+  twitter: "AlchemistFIFA"
+  github: "RollingThunder"
+
+footer-links:
+  email: true
+  twitch: true
+  twitter: true
+  github: true
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Twitch"
+    url: "https://twitch.tv/UndercoverAlchemist"
