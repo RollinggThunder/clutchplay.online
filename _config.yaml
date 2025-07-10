@@ -1,7 +1,7 @@
 ---
 remote_theme: daattali/beautiful-jekyll@master
 title: "Clutchplay"
-description: "Narendra aka UndercoverAlchemist's gaming and streaming hub -- join me for epic moments, tips, and more!"
+description: "Clutchplay is your ultimate destination for sports and gaming enthusiasts. Dive into in-depth tactical breakdowns and expert insights on football, cricket, chess, and tennis and other sports plus fresh coverage of new game releases and the latest in esports. Passionate analysis, winning strategies, and bold opinions—all in one clutch play."
 url: "https://clutchplay.online"
 baseurl: ""
 
@@ -10,21 +10,20 @@ avatar: "assets/img/avatar.png"
 
 permalink: "/:year/:month/:day/:title/"
 paginate: 5
-
 disqus: "clutchplay-online"
 
-author:
-  name: "Narendra aka UndercoverAlchemist"
-  email: "narendra@example.com"
-  twitch: "UndercoverAlchemist"
-  twitter: "AlchemistFIFA"
-  github: "RollingThunder"
+author_name: "Narendra aka UndercoverAlchemist"
+author_email: "undercoveralchemist@tuta.io"
 
 footer-links:
   email: true
   twitch: true
   twitter: true
   github: true
+
+twitch_username: "UndercoverAlchemist"
+github_username: "RollingThunder"
+twitter_username: "AlchemistFIFA"
 
 nav:
   - title: "Home"
