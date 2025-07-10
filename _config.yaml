@@ -1,10 +1,11 @@
-theme: beautiful-jekyll-theme
+---
+     theme: beautiful-jekyll-theme
      title: Clutchplay
-     description: Narendra aka UndercoverAlchemist's gaming and streaming hub—join me for epic moments, tips, and more!
+     description: Narendra's gaming hub -- join me for tips and streams!
      url: https://clutchplay.online
      baseurl: ""
-     logo: "assets/img/clutchplay-logo.png"
-     avatar: "assets/img/avatar.png"
+     logo: assets/img/clutchplay-logo.png
+     avatar: assets/img/avatar.png
      permalink: /:year/:month/:day/:title/
      paginate: 5
      disqus: clutchplay-online
