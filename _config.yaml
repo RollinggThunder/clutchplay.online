@@ -1,7 +1,7 @@
 ---
-theme: beautiful-jekyll-theme
-title: Clutchplay
-description: "Narendra's gaming hub -- join me for tips and streams!"
+remote_theme: daattali/beautiful-jekyll@master
+title: "Clutchplay"
+description: "Narendra aka UndercoverAlchemist's gaming and streaming hub -- join me for epic moments, tips, and more!"
 url: "https://clutchplay.online"
 baseurl: ""
 
@@ -11,7 +11,7 @@ avatar: "assets/img/avatar.png"
 permalink: "/:year/:month/:day/:title/"
 paginate: 5
 
-disqus: clutchplay-online
+disqus: "clutchplay-online"
 
 author:
   name: "Narendra aka UndercoverAlchemist"
