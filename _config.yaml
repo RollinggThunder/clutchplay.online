@@ -29,18 +29,10 @@ footer-links:
   twitter: true
   github: true
 
-navigation_header: true
-
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Analysis"
-    url: "/analysis/"
-  - title: "Twitch Streams"
-    url: "/twitch/"
-  - title: "Contact"
-    url: "/contact/"
+navbar-links:
+  Home: "index"
+  About: "about"
+  Blog: "blog"
+  Analysis: "analysis"
+  Twitch Streams: "twitch"
+  Contact: "contact"
