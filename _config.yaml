@@ -5,7 +5,7 @@ title: "Clutchplay"
 description: "Clutchplay is your ultimate destination for sports and gaming enthusiasts. Dive into in-depth tactical breakdowns and expert insights on football, cricket, chess, tennis, and other sports — plus fresh coverage of new game releases and the latest in esports. Passionate analysis, winning strategies, and bold opinions—all in one clutch play."
 
 url: "https://clutchplay.online"
-baseurl: ""  # Required if hosted in a subfolder. Keep it blank for custom domain.
+baseurl: ""
 
 logo: "assets/img/clutchplay-logo.png"
 avatar: "assets/img/avatar.png"
@@ -29,10 +29,8 @@ footer-links:
   twitter: true
   github: true
 
-# SEO and analytics (optional)
-google_analytics: ""  # Add your GA ID here if needed
+navigation_header: true
 
-# Navigation bar structure
 nav:
   - title: "Home"
     url: "/"
