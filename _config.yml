@@ -6,7 +6,7 @@ baseurl: ""
 author: Narendra
 timezone: Asia/Kolkata
 
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@master
 
 # Navigation
 navbar-links:
