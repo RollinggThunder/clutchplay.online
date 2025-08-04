@@ -15,6 +15,31 @@
   pageRef = "posts"
   weight = 10
 
+[[main]]
+  name = "Football"
+  pageRef = "football"
+  weight = 20
+
+[[main]]
+  name = "Cricket"
+  pageRef = "cricket"
+  weight = 30
+
+[[main]]
+  name = "Esports"
+  pageRef = "esports"
+  weight = 40
+
+[[main]]
+  name = "Twitch Streams"
+  pageRef = "twitch-streams"
+  weight = 50
+
+[[main]]
+  name = "Other Sports"
+  pageRef = "other-sports"
+  weight = 60  
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
